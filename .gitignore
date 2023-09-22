@@ -1,0 +1,6 @@
+node_modules/
+img/
+.env
+load-file.bat
+load-img.bat
+load.bat
